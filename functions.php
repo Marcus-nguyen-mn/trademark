@@ -11,7 +11,8 @@ $file_includes = [
     'inc/theme-assets.php',                 // Style and JS
     'inc/theme-setup.php',                  // General theme setting
     'inc/acf-options.php',                  // ACF Option page
-    'inc/duplicate.php',              // Dupplicate Post            
+    'inc/duplicate.php',              // Dupplicate Post 
+    'inc/cpt-product.php',              // CPT Products            
 ];
 foreach ($file_includes as $file) {
     if (!$filePath = locate_template($file)) {
@@ -30,3 +31,11 @@ unset($file, $filePath);
 //         exit;
 //     }
 // }
+/** * Completely Remove jQuery From WordPress */
+function my_init() {
+    if (!is_admin()) {
+        wp_deregister_script('jquery');
+        wp_register_script('jquery', false);
+    }
+}
+add_action('init', 'my_init');
