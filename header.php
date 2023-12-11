@@ -25,10 +25,6 @@
                 <div class="col-lg-12 col-12">
                     <nav class="navbar">
                         <a class="navbar-brand logo" href="index.html"><span class="logo_text">Filix</span></a>
-                        <div class="select_lang ml-auto">
-                            <a href="#" class="lang en active">EN</a>
-                            <a href="#" class="lang fr">FR</a>
-                        </div>
                         <button class="navbar-toggler hamburger" type="button" data-toggle="collapse" data-target="#header_menu">
                             <span class="m_menu">Menu</span> 
                             <span class="m_close">Close</span> 
@@ -75,15 +71,15 @@
                         <div class="sub_footer">
                             <ul class="footer_contact text-center">
                                 <li>
-                                    <a href="mailto:hello@example.com">
-                                        <span>hello@example.com</span>
-                                        <span>hello@example.com</span>
+                                    <a href="mailto:imkay2712@gmail.com">
+                                        <span>imkay2712@gmail.com</span>
+                                        <span>imkay2712@gmail.com</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="tel:2345674560">
-                                        <span>+234 567 4560</span>
-                                        <span>+234 567 4560</span>
+                                    <a href="tel:+84934172968">
+                                        <span>+84 934 172 968</span>
+                                        <span>+84 934 172 968</span>
                                     </a>
                                 </li>
                             </ul>
