@@ -5,7 +5,7 @@
             <div class="col-md-12 col-12">
                 <div class="footer_content">
                     <div class="footer_logo text-center wow fadeInUp">
-                        <a href="index.html"><span class="logo_text">Filix</span></a>
+                        <a href="index.html"><span class="logo_text">4LC Tech</span></a>
                     </div>
                     <h2 class="footer_title text-center wow fadeInUp">Let’s Make <span>Something Great</span> Together</h2>
                     <ul class="footer_contact text-center wow fadeInUp">
@@ -60,7 +60,7 @@
                             </a>
                         </li>
                     </ul>
-                    <p class="footer_copy_right text-center wow fadeInUp">Copyright © 2023 <a href="#">Hito Group</a>  |  All rights reserved</p>
+                    <p class="footer_copy_right text-center wow fadeInUp">Copyright © 2023 <a href="#">4LC Group</a>  |  All rights reserved</p>
                 </div>
             </div>
         </div>
@@ -75,6 +75,8 @@
         <i class="fa fa-angle-up"></i>
     </a>
 </div>
+<!-- https://html.droitlab.com/filix/index-2.html -->
+
 <script src="<?php echo get_template_directory_uri(); ?>/assets/js/theme/jquery-3.3.1.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/assets/js/theme/bootstrap.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/assets/js/theme/isotope.pkgd.min.js"></script>

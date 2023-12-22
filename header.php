@@ -24,7 +24,7 @@
             <div class="row">
                 <div class="col-lg-12 col-12">
                     <nav class="navbar">
-                        <a class="navbar-brand logo" href="index.html"><span class="logo_text">Filix</span></a>
+                        <a class="navbar-brand logo" href="index.html"><span class="logo_text">4LC Tech</span></a>
                         <button class="navbar-toggler hamburger" type="button" data-toggle="collapse" data-target="#header_menu">
                             <span class="m_menu">Menu</span> 
                             <span class="m_close">Close</span> 
